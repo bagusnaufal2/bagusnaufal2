@@ -6,7 +6,7 @@
 
 *Open to Internship and Entry-Level Opportunities*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bagus%20Naufal%20Abiyyu%20Putra-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagus-naufal-abiyyu-putra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bagus%20Naufal%20Abiyyu%20Putra-0a66c2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/bagusnaufalabiyyuputra)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B6285155307611-25d366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6285155307611)
 [![Gmail](https://img.shields.io/badge/Gmail-bagusnaufalabiyyuputra-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:bagusnaufalabiyyuputra@gmail.com)
 
