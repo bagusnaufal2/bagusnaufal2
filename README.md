@@ -87,8 +87,5 @@ Feel free to reach out — whether it's about collaboration, opportunities, or j
 
 <div align="center">
 
-*"Building systems that connect and applications that matter."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=bagusnaufal2&color=3b82f6&style=flat)
 
 </div>
