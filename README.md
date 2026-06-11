@@ -16,10 +16,10 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a tech enthusiast with a dual focus on **network & infrastructure** and **full-stack web development**. I enjoy building reliable systems — from configuring networks to developing end-to-end web applications.
+I'm a tech enthusiast specializing in **network & infrastructure**, with supporting skills in full-stack web development. I enjoy building and managing reliable systems — from designing and configuring networks to developing web applications that complement the infrastructure.
 
 - 🔭 Currently working on personal and academic projects
-- 🌱 Always learning new technologies in networking and web development
+- 🌱 Always deepening my knowledge in networking, infrastructure, and cloud technologies
 - 💼 Actively looking for **internship** or **entry-level** opportunities
 - 📍 Based in Indonesia
 
@@ -32,6 +32,7 @@ I'm a tech enthusiast with a dual focus on **network & infrastructure** and **fu
 ![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux&logoColor=black)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679a7?style=flat&logo=wireshark&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-d40000?style=flat&logo=zabbix&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white)
@@ -41,14 +42,22 @@ I'm a tech enthusiast with a dual focus on **network & infrastructure** and **fu
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)
 
 ### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ff6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=flat&logo=visualstudiocode&logoColor=white)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazonwebservices&logoColor=ff9900)
+![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
